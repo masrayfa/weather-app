@@ -9,8 +9,4 @@ This is an app weather using flutter and using Open Weather Map API for the API.
 ##Demo
 
 
-![ss porto weather app 1 0](https://user-images.githubusercontent.com/73578698/134121325-3a232c8c-3c26-4234-af1e-155e3caaa367.png)
-
-
-https://user-images.githubusercontent.com/73578698/134121335-b2d55d7e-ff12-4390-936f-fb321ec7bf0e.mp4
-
+![ss porto weather app 1 0](https://user-images.githubusercontent.com/73578698/134121325-3a232c8c-3c26-4234-af1e-155e3caaa367.png) ![Rekaman app weather](https://user-images.githubusercontent.com/73578698/134121553-11c192ab-54d8-49a5-a032-e9296bf65299.gif)
